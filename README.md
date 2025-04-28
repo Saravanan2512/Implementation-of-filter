@@ -84,6 +84,7 @@ plt.show()
 
 ```
 <h2>OUTPUT</h2>
+
 ![image](https://github.com/user-attachments/assets/bb2e0a2d-7990-40ad-a0ea-d6fc5dacde22)
 
 
